@@ -1,0 +1,257 @@
+{
+  "Advanced nav computer" : [
+    "10000",
+    "1",
+    "0",
+    "Frigate",
+    "4",
+    "1",
+    "0"
+  ],
+  "Armory" : [
+    "2000",
+    "0",
+    "0",
+    "Frigate",
+    "4",
+    "0",
+    "0"
+  ],
+  "Atmospheric configuration" : [
+    "5000",
+    "0",
+    "1",
+    "Fighter",
+    "4",
+    "0",
+    "1"
+  ],
+  "Auto targeting system" : [
+    "10000",
+    "1",
+    "0",
+    "Fighter",
+    "4",
+    "0",
+    "0"
+  ],
+  "Boarding tubes" : [
+    "5000",
+    "0",
+    "1",
+    "Frigate",
+    "4",
+    "0",
+    "0"
+  ],
+
+  "Cargo Lighter" : [
+    "25000",
+    "0",
+    "2",
+    "Frigate",
+    "4",
+    "0",
+    "0"
+  ],
+  "Cargo Space" : [
+    "0",
+    "0",
+    "1",
+    "Frigate",
+    "4",
+    "0",
+    "0"
+  ],
+  "Cold sleep pods" : [
+    "5000",
+    "1",
+    "1",
+    "Frigate",
+    "4",
+    "0",
+    "0"
+  ],
+  "Drive-2 upgrade" : [
+    "10000",
+    "1",
+    "1",
+    "Fighter",
+    "4",
+    "1",
+    "1"
+  ],
+  "Drive-3 upgrade" : [
+    "20000",
+    "2",
+    "2",
+    "Fighter",
+    "4",
+    "1",
+    "1"
+  ],
+  "Drive-4 upgrade" : [
+    "40000",
+    "2",
+    "3",
+    "Frigate",
+    "5",
+    "1",
+    "1"
+  ],
+  "Drive-5 upgrade" : [
+    "100000",
+    "3",
+    "3",
+    "Frigate",
+    "5",
+    "1",
+    "1"
+  ],
+  "Drive-6 upgrade" : [
+    "500000",
+    "3",
+    "4",
+    "Cruiser",
+    "5",
+    "1",
+    "1"
+  ],
+  "Drop pod" : [
+    "30000",
+    "0",
+    "2",
+    "Frigate",
+    "4",
+    "0",
+    "0"
+  ],
+  "Emissions dampers" : [
+    "25000",
+    "1",
+    "1",
+    "Fighter",
+    "4",
+    "1",
+    "1"
+  ],
+  "Extended life support" : [
+    "25000",
+    "1",
+    "1",
+    "Fighter",
+    "4",
+    "1",
+    "1"
+  ],
+  "Extended Medbay" : [
+    "5000",
+    "1",
+    "1",
+    "Frigate",
+    "4",
+    "0",
+    "0"
+  ],
+  "Extended stores" : [
+    "2500",
+    "0",
+    "1",
+    "Fighter",
+    "4",
+    "0",
+    "1"
+  ],
+  "Fuel bunkers" : [
+    "2500",
+    "0",
+    "1",
+    "Fighter",
+    "4",
+    "0",
+    "0"
+  ],
+  "Fuel Scoops" : [
+    "5000",
+    "2",
+    "1",
+    "Frigate",
+    "4",
+    "0",
+    "1"
+  ],
+  "Hydroponic production" : [
+    "10000",
+    "1",
+    "2",
+    "Cruiser",
+    "4",
+    "1",
+    "1"
+  ],
+  "Lifeboats" : [
+    "2500",
+    "0",
+    "1",
+    "Frigate",
+    "4",
+    "0",
+    "0"
+  ],
+  "Precognitive nac chamber" : [
+    "100000",
+    "1",
+    "0",
+    "Frigate",
+    "5",
+    "0",
+    "0"
+  ],
+  "Ship bay/fighter" : [
+    "200000",
+    "0",
+    "2",
+    "Cruiser",
+    "4",
+    "0",
+    "0"
+  ],
+  "Ship bay/frigate" : [
+    "1000000",
+    "1",
+    "4",
+    "Capital",
+    "4",
+    "0",
+    "0"
+  ],
+  "Ship's locker" : [
+    "2000",
+    "0",
+    "0",
+    "Frigate",
+    "4",
+    "0",
+    "0"
+  ],
+  "Survey sensor array" : [
+    "5000",
+    "2",
+    "1",
+    "Frigate",
+    "4",
+    "0",
+    "0"
+  ],
+  "Workshops" : [
+    "5000",
+    "2",
+    "1",
+    "Frigate",
+    "4",
+    "0",
+    "0"
+  ]
+
+
+}

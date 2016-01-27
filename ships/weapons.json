@@ -1,0 +1,59 @@
+{
+  "Multifocal Laser": [
+    "100000",
+    "1d4",
+    "5",
+    "1",
+    "1",
+    "Fighter",
+    "4",
+    ["AP 20"]
+  ],
+
+  "Reaper Battery" : [
+    "10000",
+    "3d4",
+    "4",
+    "1",
+    "1",
+    "Fighter",
+    "4",
+    ["Clumsy"]
+  ],
+
+  "Fractal Impact Charge" : [
+    "20000",
+    "2d6",
+    "5",
+    "1",
+    "1",
+    "Fighter",
+    "4",
+    ["AP 15", "Ammo 4"]
+  ],
+
+  "Polyspectral MES Beam" : [
+    "2000000",
+    "2d4",
+    "5",
+    "1",
+    "1",
+    "Fighter",
+    "5",
+    ["AP 25", "Phase 1"]
+  ],
+
+  "Sandthrower" : [
+    "50000",
+    "2d4",
+    "3",
+    "1",
+    "1",
+    "Frigate",
+    "4",
+    ["Flak"]
+  ],
+
+
+
+}
