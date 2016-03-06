@@ -5,15 +5,6 @@ def calculate_distance(start, destination):
     start_coords = parse_coords(start)
     dest_coords = parse_coords(destination)
 
-    # outer_diff = (abs(start_x - destination_x) + abs(start_y - destination_y))
-    #
-    # inner_diff = abs(abs(start_x + start_y) - abs(destination_x + destination_y)) / 2
-
-    # dist_calc = lambda sx, sy, dx, dy: (abs(sx - dx) + abs(sy - dy))
-    #
-    # inner_diff = (abs(sx - sy) - abs(dx - dy))
-    #
-    # distance = dist_calc(start_x, start_y, destination_x, destination_y)
 
 
     print outer_diff
