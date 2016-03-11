@@ -1,8 +1,8 @@
 from utils.pathfinding.graph import Graph
-from utils.pathfinding.map import Map
+from utils.pathfinding.hexmap import HexMap
 from utils.pathfinding.queue import Queue
 
-def breadth_first_search(graph, start):
+def breadth_first_search(graph, start, goal):
     frontier = Queue()
     frontier.put(start)
     visited = {}
@@ -10,8 +10,10 @@ def breadth_first_search(graph, start):
 
     while not frontier.empty():
         current = frontier.get()
-        print frontier.__dict__
         print "Visiting {}".format(current)
+
+        if current == goal:
+            break
 
         for location in graph.get_neighbors(current):
             if not is_visited(visited, location):
@@ -26,10 +28,10 @@ def is_visited(visited, coord):
     return False
 
 def main():
-    map = Map(10, 8)
+    map = HexMap(10, 8)
     graph = Graph()
     graph.edges = map.get_edges()
-    breadth_first_search(graph, (0, 0))
+    breadth_first_search(graph, (0, 0), (4, 5))
 
 
 if __name__ == "__main__":
